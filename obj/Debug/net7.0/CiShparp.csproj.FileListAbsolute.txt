@@ -1,0 +1,14 @@
+C:\Users\MaNuS\CiShparp\obj\Debug\net7.0\CiShparp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaNuS\CiShparp\obj\Debug\net7.0\CiShparp.AssemblyInfoInputs.cache
+C:\Users\MaNuS\CiShparp\obj\Debug\net7.0\CiShparp.AssemblyInfo.cs
+C:\Users\MaNuS\CiShparp\obj\Debug\net7.0\CiShparp.csproj.CoreCompileInputs.cache
+C:\Users\MaNuS\CiShparp\bin\Debug\net7.0\CiShparp.exe
+C:\Users\MaNuS\CiShparp\bin\Debug\net7.0\CiShparp.deps.json
+C:\Users\MaNuS\CiShparp\bin\Debug\net7.0\CiShparp.runtimeconfig.json
+C:\Users\MaNuS\CiShparp\bin\Debug\net7.0\CiShparp.dll
+C:\Users\MaNuS\CiShparp\bin\Debug\net7.0\CiShparp.pdb
+C:\Users\MaNuS\CiShparp\obj\Debug\net7.0\CiShparp.dll
+C:\Users\MaNuS\CiShparp\obj\Debug\net7.0\refint\CiShparp.dll
+C:\Users\MaNuS\CiShparp\obj\Debug\net7.0\CiShparp.pdb
+C:\Users\MaNuS\CiShparp\obj\Debug\net7.0\CiShparp.genruntimeconfig.cache
+C:\Users\MaNuS\CiShparp\obj\Debug\net7.0\ref\CiShparp.dll
